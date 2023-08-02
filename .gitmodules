@@ -4,3 +4,6 @@
 [submodule "AA2"]
 	path = AA2
 	url = https://github.com/vinimrs/AA2.git
+[submodule "AA3"]
+	path = AA3
+	url = https://github.com/vinimrs/AA3.git
