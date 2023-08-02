@@ -1,3 +1,6 @@
 [submodule "AA1"]
 	path = AA1
 	url = https://github.com/vinimrs/AA1
+[submodule "AA2"]
+	path = AA2
+	url = https://github.com/vinimrs/AA2.git
