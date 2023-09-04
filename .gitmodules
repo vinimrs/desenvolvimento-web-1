@@ -1,9 +1,12 @@
 [submodule "AA1"]
 	path = AA1
 	url = https://github.com/vinimrs/AA1.git
+	branch = main
 [submodule "AA2"]
 	path = AA2
 	url = https://github.com/vinimrs/AA2.git
+	branch = main
 [submodule "AA3"]
 	path = AA3
 	url = https://github.com/vinimrs/AA3.git
+	branch = main
