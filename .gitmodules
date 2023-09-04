@@ -1,7 +1,7 @@
 [submodule "AA1"]
 	path = AA1
 	url = https://github.com/vinimrs/AA1.git
-	branch = main
+	branch = master
 [submodule "AA2"]
 	path = AA2
 	url = https://github.com/vinimrs/AA2.git
