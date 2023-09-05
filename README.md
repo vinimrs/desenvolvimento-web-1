@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/github/license/vinimrs/VinChat?color=black" align="center" />
 </h1>
 
-**Projetos práticos desenvolvidos por mim durante a realização da disciplina de _Desenvolvimento de Software para a Web 1_ da _Universidade Federal de São Carlos - UFSCar_, ministrado pelo Prof. Alan Demetrius. Cujo objetivos gerais são:**
+**Projetos práticos desenvolvidos durante a realização da disciplina de _Desenvolvimento de Software para a Web 1_ da _Universidade Federal de São Carlos - UFSCar_, ministrado pelo Prof. Alan Demetrius. Cujo objetivos gerais são:**
 
 > Familiarizar o estudante com os principais conceitos do desenvolvimento de software para web; capacitar o estudante a desenvolver aplicações web pelo lado do servidor (back-end).
 
